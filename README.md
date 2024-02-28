@@ -1,4 +1,4 @@
-### Hi there 👋
+# CFATRANE
 
 <!--
 **cfatrane/cfatrane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## About Me
+
+## Projects
+
+## Experiences
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cfatrane)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats-puce-phi.vercel.app/api?username=cfatrane&show_icons=true&theme=tokyonight)
