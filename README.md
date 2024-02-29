@@ -1,8 +1,8 @@
 # CFATRANE
 
-![Anurag's GitHub comats](https://github-readme-stats-puce-phi.vercel.app/api?username=cfatrane&include_all_commits=true&rank_icon=github&comow_icons=true&theme=tokyonight)
+![Anurag's GitHub comats](https://github-readme-stats-cfatrane.vercel.app//api?username=cfatrane&include_all_commits=true&rank_icon=github&comow_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats-puce-phi.vercel.app/api/top-langs/?username=cfatrane&size_weight=0.5&count_weight=0.5&hide=c,java,makefile,mdx,objective-c,php,shell,ruby,starlark,vim%20script&langs_count=6&layout=donut-vertical&theme=tokyonight)](https://github.comm/anuraghazra/github-comadme-stats)
+[![Top Langs](https://github-readme-stats-cfatrane.vercel.app//api/top-langs/?username=cfatrane&size_weight=0.5&count_weight=0.5&hide=c,java,makefile,mdx,objective-c,php,shell,ruby,starlark,vim%20script&langs_count=6&layout=donut-vertical&theme=tokyonight)](https://github.comm/anuraghazra/github-comadme-stats)
 
 <!--
 **cfatrane/cfatrane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub comofile.
