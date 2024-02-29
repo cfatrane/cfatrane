@@ -27,11 +27,26 @@ Here are some ideas to get you started:
 
 ## 📫 How to reach me
 
-[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg =30x30)](https://www.linkedin.com/in/cfatrane/)
+<p>
+  <a href="">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-plain.svg"
+      width="40"
+      height="40"
+    />
+  </a>
+</p>
 
 ## Langages
 
-<p align="center">
+<p align="left">
   <!-- react -->
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
@@ -70,6 +85,18 @@ Here are some ideas to get you started:
     width="40"
     height="40"
   />
+  <!-- redux -->
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg"
+    width="40"
+    height="40"
+  />
+  <!-- sass -->
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"
+    width="40"
+    height="40"
+  />
   <!-- antdesign -->
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/antdesign/antdesign-original.svg"
@@ -94,18 +121,72 @@ Here are some ideas to get you started:
     width="40"
     height="40"
   />
+  <!-- storybook -->
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/storybook/storybook-original.svg"
+    width="40"
+    height="40"
+  />
+  <!-- sentry -->
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sentry/sentry-original.svg"
+    width="40"
+    height="40"
+  />
+  <!-- threejs -->
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg"
+    width="40"
+    height="40"
+  />
 </p>
 
 ## Tools ⚒️
 
-<p align="center">
+<p>
+  <!-- vscode -->
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
     width="40"
     height="40"
   />
+  <!-- slack -->
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg"
+    width="40"
+    height="40"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg"
+    width="40"
+    height="40"
+  />
+  <!-- trello -->
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg"
+    width="40"
+    height="40"
+  />
+  <!-- sketch -->
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sketch/sketch-original.svg"
+    width="40"
+    height="40"
+  />
+  <!-- postman -->
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"
+    width="40"
+    height="40"
+  />
+  <!-- ohmyzsh -->
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ohmyzsh/ohmyzsh-original.svg"
+    width="40"
+    height="40"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg"
     width="40"
     height="40"
   />
