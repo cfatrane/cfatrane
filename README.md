@@ -1,18 +1,7 @@
 # CFATRANE
 
-![Anurag's GitHub stats](https://github-readme-stats-cfatrane.vercel.app/api?username=cfatrane&show_icons=true&theme=dark)
-![Anurag's GitHub stats](https://github-readme-stats-cfatrane.vercel.app/api?username=cfatrane&show_icons=true&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats-cfatrane.vercel.app/api?username=cfatrane&show_icons=true&theme=tokyonight&rank_icon=github)
-![Anurag's GitHub stats](https://github-readme-stats-cfatrane.vercel.app/api?username=cfatrane&show_icons=true&theme=tokyonight&rank_icon=percentile)
-![Anurag's GitHub stats](https://github-readme-stats-cfatrane.vercel.app/api?username=cfatrane&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats-cfatrane.vercel.app/api?username=cfatrane&rank_icon=github&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats-cfatrane.vercel.app/api/top-langs/?username=cfatrane&hide=c,java,makefile,mdx,objective-c,php,shell,ruby,starlark,vim%20script&langs_count=6&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats-cfatrane.vercel.app/api/top-langs/?username=cfatrane&size_weight=0.5&count_weight=0.5&hide=c,java,makefile,mdx,objective-c,php,shell,ruby,starlark,vim%20script&langs_count=6&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats-cfatrane.vercel.app/api/top-langs/?username=cfatrane&hide=c,java,makefile,mdx,objective-c,php,shell,ruby,starlark,vim%20script&langs_count=6&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats-cfatrane.vercel.app/api/top-langs/?username=cfatrane&size_weight=0.5&count_weight=0.5&hide=c,java,makefile,mdx,objective-c,php,shell,ruby,starlark,vim%20script&langs_count=6&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats-cfatrane.vercel.app/api/top-langs/?username=cfatrane&hide=c,java,makefile,mdx,objective-c,php,shell,ruby,starlark,vim%20script&langs_count=6&layout=donut-vertical&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats-cfatrane.vercel.app/api/top-langs/?username=cfatrane&size_weight=0.5&count_weight=0.5&hide=c,java,makefile,mdx,objective-c,php,shell,ruby,starlark,vim%20script&langs_count=6&layout=donut-vertical&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
