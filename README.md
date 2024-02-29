@@ -53,6 +53,8 @@ Here are some ideas to get you started:
   <!-- vitejs -->
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg"
+    width="40"
+    height="40"
   />
   <!-- javascript -->
   <img
@@ -77,6 +79,8 @@ Here are some ideas to get you started:
   <!-- materialui -->
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg"
+    width="40"
+    height="40"
   />
   <!-- tailwindcss -->
   <img
