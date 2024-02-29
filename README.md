@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ## Langages
 
-<p align="left">
+<p align="center">
   <!-- react -->
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
@@ -96,9 +96,9 @@ Here are some ideas to get you started:
   />
 </p>
 
-## Tools
+## Tools ⚒️
 
-<p>
+<p align="center">
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
     width="40"
