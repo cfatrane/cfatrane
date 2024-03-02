@@ -34,7 +34,7 @@ I work closely with my clients to understand their needs and exceed their expect
 
 I'm passionate about delivering solutions that not only meet technical requirements, but also add real value for the end user. If you need an expert who can translate your visions into concrete, high-performance digital experiences, I'm at your disposal to discuss your project and contribute to its success.
 
-## Some of my projects 🧠
+## I’m currently working on 🔭
 
 [![Readme Card](https://github-readme-stats-cfatrane.vercel.app/api/pin/?username=cfatrane&repo=nextjs-boilerplate&theme=tokyonight)](https://github.com/cfatrane/nextjs-boilerplate)
 [![Readme Card](https://github-readme-stats-cfatrane.vercel.app/api/pin/?username=cfatrane&repo=pokedex-app&theme=tokyonight)](https://github.com/cfatrane/pokedex-app)
@@ -79,94 +79,99 @@ I'm passionate about delivering solutions that not only meet technical requireme
   <!-- react -->
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
-    width="40"
-    height="40"
+    width="70"
+    height="70"
   />
   <!-- node -->
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
-    width="40"
-    height="40"
+    width="70"
+    height="70"
   />
   <!-- nextjs -->
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"
-    width="40"
-    height="40"
+    width="70"
+    height="70"
   />
   <!-- vitejs -->
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg"
-    width="40"
-    height="40"
+    width="70"
+    height="70"
   />
   <!-- javascript -->
   <img
     alt="javascript"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-    width="40"
-    height="40"
+    width="70"
+    height="70"
   />
   <!-- typescript -->
   <img
     alt="typescript"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
-    width="40"
-    height="40"
+    width="70"
+    height="70"
   />
   <!-- redux -->
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg"
-    width="40"
-    height="40"
+    width="70"
+    height="70"
   />
   <!-- sass -->
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"
-    width="40"
-    height="40"
+    width="70"
+    height="70"
   />
   <!-- antdesign -->
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/antdesign/antdesign-original.svg"
-    width="40"
-    height="40"
+    width="70"
+    height="70"
   />
   <!-- materialui -->
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg"
-    width="40"
-    height="40"
+    width="70"
+    height="70"
   />
   <!-- tailwindcss -->
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg"
-    width="40"
-    height="40"
+    width="70"
+    height="70"
   />
   <!-- vercel -->
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg"
-    width="40"
-    height="40"
+    width="70"
+    height="70"
   />
   <!-- storybook -->
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/storybook/storybook-original.svg"
-    width="40"
-    height="40"
+    width="70"
+    height="70"
   />
   <!-- sentry -->
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sentry/sentry-original.svg"
-    width="40"
-    height="40"
+    width="70"
+    height="70"
   />
   <!-- threejs -->
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg"
-    width="40"
-    height="40"
+    width="70"
+    height="70"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
+    width="70"
+    height="70"
   />
 </p>
 
