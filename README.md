@@ -1,4 +1,4 @@
-![Github Banner](https://github.com/cfatrane/cfatrane/assets/17748314/e5779686-227d-49d4-b6fc-a5a1715a453e)
+![Github Banner 1280x640](https://github.com/cfatrane/cfatrane/assets/17748314/071f6b40-f20e-4d0b-802c-243cff53495e)
 
 <img
   src="https://github-readme-stats-cfatrane.vercel.app//api?username=cfatrane&&include_all_commits=true&rank_icon=github&number_format=long&show_icons=true&theme=tokyonight"
