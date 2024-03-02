@@ -1,15 +1,11 @@
 # CFATRANE
 
-<a>
-  <img
-    src="https://github-readme-stats-cfatrane.vercel.app//api?username=cfatrane&include_all_commits=true&rank_icon=github&comow_icons=true&theme=tokyonight"
-  />
-</a>
-<a>
-  <img
-    src="https://github-readme-stats-cfatrane.vercel.app//api/top-langs/?username=cfatrane&size_weight=0.5&count_weight=0.5&hide=c,java,makefile,mdx,objective-c,php,shell,ruby,starlark,vim%20script&langs_count=6&layout=donut-vertical&theme=tokyonight"
-  />
-</a>
+<img
+  src="https://github-readme-stats-cfatrane.vercel.app//api?username=cfatrane&&include_all_commits=true&rank_icon=github&comow_icons=true&theme=tokyonight"
+/>
+<img
+  src="https://github-readme-stats-cfatrane.vercel.app//api/top-langs/?username=cfatrane&size_weight=0.5&count_weight=0.5&hide=c,java,makefile,mdx,objective-c,php,shell,ruby,starlark,vim%20script&langs_count=6&layout=donut-vertical&theme=tokyonight"
+/>
 
 <!--
 **cfatrane/cfatrane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub comofile.
