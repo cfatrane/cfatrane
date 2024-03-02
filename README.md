@@ -33,10 +33,15 @@ I'm passionate about delivering solutions that not only meet technical requireme
 
 ## Projects
 
-[![Readme Card](https://github-readme-stats-cfatrane.vercel.app/api/pin/?username=cfatrane&repo=pokedex-app)](https://github.com/cfatrane/pokedex-app)
-[![Readme Card](https://github-readme-stats-cfatrane.vercel.app/api/pin/?username=cfatrane&repo=nextjs-boilerplate)](https://github.com/cfatrane/nextjs-boilerplate)
+[![Readme Card](https://github-readme-stats-cfatrane.vercel.app/api/pin/?username=cfatrane&repo=pokedex-app&theme=tokyonight)](https://github.com/cfatrane/pokedex-app)
+[![Readme Card](https://github-readme-stats-cfatrane.vercel.app/api/pin/?username=cfatrane&repo=nextjs-boilerplate&theme=tokyonight)](https://github.com/cfatrane/nextjs-boilerplate)
 
-## Experiences
+<!-- ## Gists
+
+[![Gist Card](https://github-readme-stats-cfatrane.vercel.app/api/gist?id=7283dd0e09da9c5c103d207f412c2a52)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
+[![Gist Card](https://github-readme-stats-cfatrane.vercel.app/api/gist?id=398235c3c889a88aca0f3471ea163e27)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/) -->
+
+<!-- ## Experiences -->
 
 ## 📫 How to reach me
 
