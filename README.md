@@ -38,6 +38,21 @@ I'm passionate about delivering solutions that not only meet technical requireme
 
 [![Readme Card](https://github-readme-stats-cfatrane.vercel.app/api/pin/?username=cfatrane&repo=nextjs-boilerplate&theme=tokyonight)](https://github.com/cfatrane/nextjs-boilerplate)
 [![Readme Card](https://github-readme-stats-cfatrane.vercel.app/api/pin/?username=cfatrane&repo=pokedex-app&theme=tokyonight)](https://github.com/cfatrane/pokedex-app)
+[![Readme Card](https://github-readme-stats-cfatrane.vercel.app/api/pin/?username=cfatrane&repo=react-native-boilerplate&theme=tokyonight)](https://github.com/cfatrane/react-native-boilerplate)
+
+And also:
+
+- Mobile:
+
+  - Fitness
+  - Music Player
+  - A Weather App
+  - Travel Guide
+
+- Website:
+  - Movie Watchlist
+  - E-commerce
+  - Porfolio
 
 <!-- ## Gists
 
@@ -46,7 +61,7 @@ I'm passionate about delivering solutions that not only meet technical requireme
 
 <!-- ## Experiences -->
 
-## How to reach me 📫
+<!-- ## How to reach me 📫
 
 <p align="center">
   <a
@@ -71,7 +86,7 @@ I'm passionate about delivering solutions that not only meet technical requireme
       height="40"
     />
   </a>
-</p>
+</p> -->
 
 ## Languages I use 💻
 
@@ -181,47 +196,47 @@ I'm passionate about delivering solutions that not only meet technical requireme
   <!-- vscode -->
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
-    width="40"
-    height="40"
+    width="50"
+    height="50"
   />
   <!-- slack -->
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg"
-    width="40"
-    height="40"
+    width="50"
+    height="50"
   />
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg"
-    width="40"
-    height="40"
+    width="50"
+    height="50"
   />
   <!-- trello -->
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg"
-    width="40"
-    height="40"
+    width="50"
+    height="50"
   />
   <!-- sketch -->
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sketch/sketch-original.svg"
-    width="40"
-    height="40"
+    width="50"
+    height="50"
   />
   <!-- postman -->
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"
-    width="40"
-    height="40"
+    width="50"
+    height="50"
   />
   <!-- ohmyzsh -->
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ohmyzsh/ohmyzsh-original.svg"
-    width="40"
-    height="40"
+    width="50"
+    height="50"
   />
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg"
-    width="40"
-    height="40"
+    width="50"
+    height="50"
   />
 </p>
