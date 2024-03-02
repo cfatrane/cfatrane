@@ -38,14 +38,14 @@ I'm passionate about delivering solutions that not only meet technical requireme
 ## 📫 How to reach me
 
 <p align="center">
-  <a href="">
+  <a href="https://twitter.com/aristoteartem" target="_blank">
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg"
       width="40"
       height="40"
     />
   </a>
-  <a href="https://www.linkedin.com/in/cfatrane/">
+  <a href="https://www.linkedin.com/in/cfatrane/" target="_blank">
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-plain.svg"
       width="40"
