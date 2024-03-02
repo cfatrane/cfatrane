@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## About
+## About 👨🏾‍💻
 
 Hello 👋!
 
@@ -34,7 +34,7 @@ I work closely with my clients to understand their needs and exceed their expect
 
 I'm passionate about delivering solutions that not only meet technical requirements, but also add real value for the end user. If you need an expert who can translate your visions into concrete, high-performance digital experiences, I'm at your disposal to discuss your project and contribute to its success.
 
-## Projects
+## Some of my projects 🧠
 
 [![Readme Card](https://github-readme-stats-cfatrane.vercel.app/api/pin/?username=cfatrane&repo=nextjs-boilerplate&theme=tokyonight)](https://github.com/cfatrane/nextjs-boilerplate)
 [![Readme Card](https://github-readme-stats-cfatrane.vercel.app/api/pin/?username=cfatrane&repo=pokedex-app&theme=tokyonight)](https://github.com/cfatrane/pokedex-app)
@@ -46,7 +46,7 @@ I'm passionate about delivering solutions that not only meet technical requireme
 
 <!-- ## Experiences -->
 
-## 📫 How to reach me
+## How to reach me 📫
 
 <p align="center">
   <a
@@ -73,7 +73,7 @@ I'm passionate about delivering solutions that not only meet technical requireme
   </a>
 </p>
 
-## Langages
+## Languages I use 💻
 
 <p align="center">
   <!-- react -->
