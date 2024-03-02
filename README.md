@@ -170,7 +170,7 @@ I'm passionate about delivering solutions that not only meet technical requireme
   />
 </p>
 
-## Tools ⚒️
+## My everyday tools ⚒️
 
 <p align="center">
   <!-- vscode -->
