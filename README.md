@@ -21,13 +21,23 @@ Here are some ideas to get you started:
 
 ## About
 
+Hello 👋!
+
+An alumnus of Ecole 42 with a wealth of experience spanning 5 years, I'm a Fullstack developer specializing in the design and deployment of web and mobile solutions using React Js , Node.js and React Native.
+
+My career path, which spans innovative startups to large enterprises, has enabled me to develop web platforms, showcase sites, e-commerce solutions, interactive blogs and responsive mobile applications.
+
+I work closely with my clients to understand their needs and exceed their expectations. If you're looking for a developer who combines technical expertise, attention to detail and a holistic approach to web development, I'd be delighted to discuss your project.
+
+I'm passionate about delivering solutions that not only meet technical requirements, but also add real value for the end user. If you need an expert who can translate your visions into concrete, high-performance digital experiences, I'm at your disposal to discuss your project and contribute to its success.
+
 ## Projects
 
 ## Experiences
 
 ## 📫 How to reach me
 
-<p>
+<p align="center">
   <a href="">
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg"
@@ -35,7 +45,7 @@ Here are some ideas to get you started:
       height="40"
     />
   </a>
-  <a href="">
+  <a href="https://www.linkedin.com/in/cfatrane/">
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-plain.svg"
       width="40"
@@ -46,7 +56,7 @@ Here are some ideas to get you started:
 
 ## Langages
 
-<p align="left">
+<p align="center">
   <!-- react -->
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
@@ -143,7 +153,7 @@ Here are some ideas to get you started:
 
 ## Tools ⚒️
 
-<p>
+<p align="center">
   <!-- vscode -->
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
