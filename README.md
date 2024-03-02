@@ -33,6 +33,9 @@ I'm passionate about delivering solutions that not only meet technical requireme
 
 ## Projects
 
+[![Readme Card](https://github-readme-stats-cfatrane.vercel.app/api/pin/?username=cfatrane&repo=pokedex-app)](https://github.com/cfatrane/pokedex-app)
+[![Readme Card](https://github-readme-stats-cfatrane.vercel.app/api/pin/?username=cfatrane&repo=nextjs-boilerplate)](https://github.com/cfatrane/nextjs-boilerplate)
+
 ## Experiences
 
 ## 📫 How to reach me
