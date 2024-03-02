@@ -1,8 +1,15 @@
 # CFATRANE
 
-![Anurag's GitHub comats](https://github-readme-stats-cfatrane.vercel.app//api?username=cfatrane&include_all_commits=true&rank_icon=github&comow_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats-cfatrane.vercel.app//api/top-langs/?username=cfatrane&size_weight=0.5&count_weight=0.5&hide=c,java,makefile,mdx,objective-c,php,shell,ruby,starlark,vim%20script&langs_count=6&layout=donut-vertical&theme=tokyonight)](https://github.comm/anuraghazra/github-comadme-stats)
+<a>
+  <img
+    src="https://github-readme-stats-cfatrane.vercel.app//api?username=cfatrane&include_all_commits=true&rank_icon=github&comow_icons=true&theme=tokyonight"
+  />
+</a>
+<a>
+  <img
+    src="https://github-readme-stats-cfatrane.vercel.app//api/top-langs/?username=cfatrane&size_weight=0.5&count_weight=0.5&hide=c,java,makefile,mdx,objective-c,php,shell,ruby,starlark,vim%20script&langs_count=6&layout=donut-vertical&theme=tokyonight"
+  />
+</a>
 
 <!--
 **cfatrane/cfatrane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub comofile.
@@ -33,8 +40,8 @@ I'm passionate about delivering solutions that not only meet technical requireme
 
 ## Projects
 
-[![Readme Card](https://github-readme-stats-cfatrane.vercel.app/api/pin/?username=cfatrane&repo=pokedex-app&theme=tokyonight)](https://github.com/cfatrane/pokedex-app)
 [![Readme Card](https://github-readme-stats-cfatrane.vercel.app/api/pin/?username=cfatrane&repo=nextjs-boilerplate&theme=tokyonight)](https://github.com/cfatrane/nextjs-boilerplate)
+[![Readme Card](https://github-readme-stats-cfatrane.vercel.app/api/pin/?username=cfatrane&repo=pokedex-app&theme=tokyonight)](https://github.com/cfatrane/pokedex-app)
 
 <!-- ## Gists
 
