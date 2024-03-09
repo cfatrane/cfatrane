@@ -6,7 +6,7 @@
 />
 <img
   height="200"
-  src="https://github-readme-stats-cfatrane.vercel.app//api/top-langs/?username=cfatrane&size_weight=0.5&count_weight=0.5&hide=c,java,makefile,mdx,objective-c,php,shell,ruby,starlark,vim%20script&langs_count=6&layout=compact&theme=tokyonight"
+  src="https://github-readme-stats-cfatrane.vercel.app//api/top-langs/?username=cfatrane&card_width=320&size_weight=0.5&count_weight=0.5&hide=c,java,makefile,mdx,objective-c,php,shell,ruby,starlark,vim%20script&langs_count=6&layout=compact&theme=tokyonight"
 />
 
 <!--
