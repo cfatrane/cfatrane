@@ -46,6 +46,7 @@ I'm passionate about delivering solutions that not only meet technical requireme
 [![Readme Card](https://github-readme-stats-cfatrane.vercel.app/api/pin/?username=cfatrane&repo=nextjs-boilerplate&theme=tokyonight)](https://github.com/cfatrane/nextjs-boilerplate)
 [![Readme Card](https://github-readme-stats-cfatrane.vercel.app/api/pin/?username=cfatrane&repo=pokedex-app&theme=tokyonight)](https://github.com/cfatrane/pokedex-app)
 [![Readme Card](https://github-readme-stats-cfatrane.vercel.app/api/pin/?username=cfatrane&repo=react-native-boilerplate&theme=tokyonight)](https://github.com/cfatrane/react-native-boilerplate)
+[![Readme Card](https://github-readme-stats-cfatrane.vercel.app/api/pin/?username=cfatrane&repo=your-life-in&theme=tokyonight)](https://github.com/cfatrane/your-life-in)
 
 And also:
 
