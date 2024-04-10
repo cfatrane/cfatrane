@@ -1,6 +1,6 @@
 ![Github Banner](https://github.com/cfatrane/cfatrane/assets/17748314/08a59b83-dde2-433c-aab9-9e09ff3643c8)
 
-![Stats](https://github.com/cfatrane/cfatrane/assets/17748314/826d428a-a1e5-43d7-8a23-835244003e07)
+![Stats](https://github.com/cfatrane/cfatrane/assets/17748314/9d6297ab-fd59-4224-9849-9c8e1cc105a6)
 
 <a href="https://github.com/cfatrane?tab=repositories">
   <img
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## About 👨🏾‍💻
+![About](https://github.com/cfatrane/cfatrane/assets/17748314/6c5f9fc8-7525-43c9-bb25-1b3f0be17076)
 
 Hello 👋!
 
@@ -44,9 +44,7 @@ I work closely with my clients to understand their needs and exceed their expect
 
 I'm passionate about delivering solutions that not only meet technical requirements, but also add real value for the end user. If you need an expert who can translate your visions into concrete, high-performance digital experiences, I'm at your disposal to discuss your project and contribute to its success.
 
-## I’m currently working on 🔭
-
-![Projects](https://github.com/cfatrane/cfatrane/assets/17748314/0f353aa1-0a4c-429c-8ffb-051c59abacbe)
+![Projects](https://github.com/cfatrane/cfatrane/assets/17748314/c70a373f-5c11-49b4-a249-bea9ee986a23)
 
 <a href="https://github.com/cfatrane/nextjs-boilerplate">
   <img
