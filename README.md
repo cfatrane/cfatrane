@@ -2,20 +2,28 @@
 
 ![Stats](https://github.com/cfatrane/cfatrane/assets/17748314/8c80230e-1053-480a-ac71-b9cb418a4a7f)
 
-<a href="https://github.com/cfatrane?tab=repositories">
-  <img
-    height="200"
-    src="https://github-readme-stats-cfatrane.vercel.app//api?username=cfatrane&card_width=400&include_all_commits=true&rank_icon=github&number_format=long&show_icons=true&theme=tokyonight"
-  />
-</a>
-<a href="https://github.com/cfatrane?tab=repositories">
-  <img
-    height="200"
-    src="https://github-readme-stats-cfatrane.vercel.app//api/top-langs/?username=cfatrane&card_width=320&size_weight=0.5&count_weight=0.5&hide=c,java,makefile,mdx,objective-c,php,shell,ruby,starlark,vim%20script&langs_count=6&layout=compact&theme=tokyonight"
-  />
-</a>
+<p align="center">
+  <a href="https://github.com/cfatrane?tab=repositories">
+    <img
+      height="200"
+      src="https://github-readme-stats-cfatrane.vercel.app//api?username=cfatrane&card_width=400&include_all_commits=true&rank_icon=github&number_format=long&show_icons=true&theme=tokyonight"
+    />
+  </a>
+  <a href="https://github.com/cfatrane?tab=repositories">
+    <img
+      height="200"
+      src="https://github-readme-stats-cfatrane.vercel.app//api/top-langs/?username=cfatrane&card_width=320&size_weight=0.5&count_weight=0.5&hide=c,java,makefile,mdx,objective-c,php,shell,ruby,starlark,vim%20script&langs_count=6&layout=compact&theme=tokyonight"
+    />
+  </a>
+</p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cfatrane&theme=tokyonight)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img
+      src="https://github-readme-streak-stats.herokuapp.com?user=cfatrane&theme=tokyonight"
+    />
+  </a>
+</p>
 
 <!--
 **cfatrane/cfatrane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub comofile.
@@ -42,35 +50,36 @@ My career path, which spans innovative startups to large enterprises, has enable
 
 I work closely with my clients to understand their needs and exceed their expectations. If you're looking for a developer who combines technical expertise, attention to detail and a holistic approach to web development, I'd be delighted to discuss your project.
 
-I'm passionate about delivering solutions that not only meet technical requirements, but also add real value for the end user. If you need an expert who can translate your visions into concrete, high-performance digital experiences, I'm at your disposal to discuss your project and contribute to its success.
+I'm passionate about delivering solutions that not **only** meet technical requirements, but also add real value for the end user. If you need an expert who can translate your visions into concrete, high-performance digital experiences, I'm at your disposal to discuss your project and contribute to its success.
 
 ![Projects](https://github.com/cfatrane/cfatrane/assets/17748314/5f46b5bd-0e92-4656-a9eb-9b8d8bafd5ef)
 
-<a href="https://github.com/cfatrane/nextjs-boilerplate">
-  <img
-    align="center"
-    src="https://github-readme-stats-cfatrane.vercel.app/api/pin/?username=cfatrane&repo=nextjs-boilerplate&theme=tokyonight"
-  />
-</a>
-<a href="https://github.com/cfatrane/pokedex-app">
-  <img
-    align="center"
-    src="https://github-readme-stats-cfatrane.vercel.app/api/pin/?username=cfatrane&repo=pokedex-app&theme=tokyonight"
-  />
-</a>
-
-<a href="https://github.com/cfatrane/react-native-boilerplate">
-  <img
-    align="center"
-    src="https://github-readme-stats-cfatrane.vercel.app/api/pin/?username=cfatrane&repo=react-native-boilerplate&theme=tokyonight"
-  />
-</a>
-<a href="https://github.com/cfatrane/your-life-in)">
-  <img
-    align="center"
-    src="https://github-readme-stats-cfatrane.vercel.app/api/pin/?username=cfatrane&repo=your-life-in&theme=tokyonight"
-  />
-</a>
+<p align="center">
+  <a href="https://github.com/cfatrane/nextjs-boilerplate">
+    <img
+      align="center"
+      src="https://github-readme-stats-cfatrane.vercel.app/api/pin/?username=cfatrane&repo=nextjs-boilerplate&theme=tokyonight"
+    />
+  </a>
+  <a href="https://github.com/cfatrane/pokedex-app">
+    <img
+      align="center"
+      src="https://github-readme-stats-cfatrane.vercel.app/api/pin/?username=cfatrane&repo=pokedex-app&theme=tokyonight"
+    />
+  </a>
+  <a href="https://github.com/cfatrane/react-native-boilerplate">
+    <img
+      align="center"
+      src="https://github-readme-stats-cfatrane.vercel.app/api/pin/?username=cfatrane&repo=react-native-boilerplate&theme=tokyonight"
+    />
+  </a>
+  <a href="https://github.com/cfatrane/your-life-in)">
+    <img
+      align="center"
+      src="https://github-readme-stats-cfatrane.vercel.app/api/pin/?username=cfatrane&repo=your-life-in&theme=tokyonight"
+    />
+  </a>
+</p>
 
 <!-- ## Gists
 
