@@ -1,21 +1,21 @@
 ![Github Banner 1280x640](https://github.com/cfatrane/cfatrane/assets/17748314/071f6b40-f20e-4d0b-802c-243cff53495e)
 
-<div style="display: flex">
+  <a href="https://github.com/cfatrane?tab=repositories">
   <img
     height="200"
+    align="center"
     src="https://github-readme-stats-cfatrane.vercel.app//api?username=cfatrane&include_all_commits=true&rank_icon=github&number_format=long&show_icons=true&theme=tokyonight"
-    width="50%"
   />
-
-<img
+</a>
+  <a href="https://github.com/cfatrane?tab=repositories">
+  <img
     height="200"
+    align="center"
     src="https://github-readme-stats-cfatrane.vercel.app//api/top-langs/?username=cfatrane&size_weight=0.5&count_weight=0.5&hide=c,java,makefile,mdx,objective-c,php,shell,ruby,starlark,vim%20script&langs_count=6&layout=compact&theme=tokyonight"
-    width="50%"
   />
+</a>
 
-</div>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cfatrane&theme=tokyonight&card_width=350)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cfatrane&theme=tokyonight)](https://git.io/streak-stats)
 
 <!--
 **cfatrane/cfatrane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub comofile.
@@ -46,10 +46,31 @@ I'm passionate about delivering solutions that not only meet technical requireme
 
 ## I’m currently working on 🔭
 
-[![Readme Card](https://github-readme-stats-cfatrane.vercel.app/api/pin/?username=cfatrane&repo=nextjs-boilerplate&theme=tokyonight)](https://github.com/cfatrane/nextjs-boilerplate)
-[![Readme Card](https://github-readme-stats-cfatrane.vercel.app/api/pin/?username=cfatrane&repo=pokedex-app&theme=tokyonight)](https://github.com/cfatrane/pokedex-app)
-[![Readme Card](https://github-readme-stats-cfatrane.vercel.app/api/pin/?username=cfatrane&repo=react-native-boilerplate&theme=tokyonight)](https://github.com/cfatrane/react-native-boilerplate)
-[![Readme Card](https://github-readme-stats-cfatrane.vercel.app/api/pin/?username=cfatrane&repo=your-life-in&theme=tokyonight)](https://github.com/cfatrane/your-life-in)
+<a href="https://github.com/cfatrane/nextjs-boilerplate">
+  <img
+    align="center"
+    src="https://github-readme-stats-cfatrane.vercel.app/api/pin/?username=cfatrane&repo=nextjs-boilerplate&theme=tokyonight"
+  />
+</a>
+<a href="https://github.com/cfatrane/pokedex-app">
+  <img
+    align="center"
+    src="https://github-readme-stats-cfatrane.vercel.app/api/pin/?username=cfatrane&repo=pokedex-app&theme=tokyonight"
+  />
+</a>
+
+<a href="https://github.com/cfatrane/react-native-boilerplate">
+  <img
+    align="center"
+    src="https://github-readme-stats-cfatrane.vercel.app/api/pin/?username=cfatrane&repo=react-native-boilerplate&theme=tokyonight"
+  />
+</a>
+<a href="https://github.com/cfatrane/your-life-in)">
+  <img
+    align="center"
+    src="https://github-readme-stats-cfatrane.vercel.app/api/pin/?username=cfatrane&repo=your-life-in&theme=tokyonight"
+  />
+</a>
 
 And also:
 
