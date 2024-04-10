@@ -106,7 +106,33 @@ I'm passionate about delivering solutions that not only meet technical requireme
   </a>
 </p> -->
 
-## Languages I use 💻
+<!-- Languages -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,css,html,python,md,&theme=dark" />
+  </a>
+</p>
+
+<!-- Framework -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,next,vite,nodejs,materialui,jest,graphql,docker,styledcomponents,tailwind,threejs,yarn&theme=dark" />
+  </a>
+</p>
+
+<!-- Group -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=discord,vscode&theme=dark" />
+  </a>
+</p>
+
+<!-- Cloud -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,vercel,heroku&theme=dark" />
+  </a>
+</p>
 
 <p align="center">
   <!-- react -->
