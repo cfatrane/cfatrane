@@ -1,4 +1,5 @@
-![Github Banner 1280x640](https://github.com/cfatrane/cfatrane/assets/17748314/071f6b40-f20e-4d0b-802c-243cff53495e)
+![Github Banner](https://github.com/cfatrane/cfatrane/assets/17748314/08a59b83-dde2-433c-aab9-9e09ff3643c8)
+
 
 <a href="https://github.com/cfatrane?tab=repositories">
   <img
