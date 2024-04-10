@@ -1,18 +1,20 @@
 ![Github Banner 1280x640](https://github.com/cfatrane/cfatrane/assets/17748314/071f6b40-f20e-4d0b-802c-243cff53495e)
 
-<a href="https://github.com/cfatrane?tab=repositories">
-  <img
-    height="200"
-    src="https://github-readme-stats-cfatrane.vercel.app//api?username=cfatrane&card_width=340&include_all_commits=true&rank_icon=github&number_format=long&show_icons=true&theme=tokyonight"
-  />
-</a>
+<p align="'center">
+  <a href="https://github.com/cfatrane?tab=repositories">
+    <img
+      height="200"
+      src="https://github-readme-stats-cfatrane.vercel.app//api?username=cfatrane&card_width=340&include_all_commits=true&rank_icon=github&number_format=long&show_icons=true&theme=tokyonight"
+    />
+  </a>
 
-<a href="https://github.com/cfatrane?tab=repositories">
-  <img
-    height="200"
-    src="https://github-readme-stats-cfatrane.vercel.app//api/top-langs/?username=cfatrane&card_width=340&size_weight=0.5&count_weight=0.5&hide=c,java,makefile,mdx,objective-c,php,shell,ruby,starlark,vim%20script&langs_count=6&layout=compact&theme=tokyonight"
-  />
-</a>
+  <a href="https://github.com/cfatrane?tab=repositories">
+    <img
+      height="200"
+      src="https://github-readme-stats-cfatrane.vercel.app//api/top-langs/?username=cfatrane&card_width=340&size_weight=0.5&count_weight=0.5&hide=c,java,makefile,mdx,objective-c,php,shell,ruby,starlark,vim%20script&langs_count=6&layout=compact&theme=tokyonight"
+    />
+  </a>
+</p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cfatrane&theme=tokyonight&card_width=350)](https://git.io/streak-stats)
 
