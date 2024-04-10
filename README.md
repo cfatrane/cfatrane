@@ -70,20 +70,6 @@ I'm passionate about delivering solutions that not only meet technical requireme
   />
 </a>
 
-And also:
-
-- Mobile:
-
-  - Fitness
-  - Music Player
-  - A Weather App
-  - Travel Guide
-
-- Website:
-  - Movie Watchlist
-  - E-commerce
-  - Porfolio
-
 <!-- ## Gists
 
 [![Gist Card](https://github-readme-stats-cfatrane.vercel.app/api/gist?id=7283dd0e09da9c5c103d207f412c2a52)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
