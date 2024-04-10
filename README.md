@@ -15,7 +15,7 @@
   />
 </a>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cfatrane&theme=tokyonight)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cfatrane&theme=tokyonight)](https://git.io/streak-stats) -->
 
 <!--
 **cfatrane/cfatrane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub comofile.
