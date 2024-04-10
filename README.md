@@ -1,5 +1,6 @@
 ![Github Banner](https://github.com/cfatrane/cfatrane/assets/17748314/08a59b83-dde2-433c-aab9-9e09ff3643c8)
 
+![Stats](https://github.com/cfatrane/cfatrane/assets/17748314/826d428a-a1e5-43d7-8a23-835244003e07)
 
 <a href="https://github.com/cfatrane?tab=repositories">
   <img
@@ -44,6 +45,8 @@ I work closely with my clients to understand their needs and exceed their expect
 I'm passionate about delivering solutions that not only meet technical requirements, but also add real value for the end user. If you need an expert who can translate your visions into concrete, high-performance digital experiences, I'm at your disposal to discuss your project and contribute to its success.
 
 ## I’m currently working on 🔭
+
+![Projects](https://github.com/cfatrane/cfatrane/assets/17748314/0f353aa1-0a4c-429c-8ffb-051c59abacbe)
 
 <a href="https://github.com/cfatrane/nextjs-boilerplate">
   <img
