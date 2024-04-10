@@ -106,6 +106,8 @@ I'm passionate about delivering solutions that not only meet technical requireme
   </a>
 </p> -->
 
+![Tools](https://github.com/cfatrane/cfatrane/assets/17748314/249f6300-cb36-4cdb-9906-b4bada49e785)
+
 <!-- Languages -->
 <p align="center">
   <a href="https://skillicons.dev">
@@ -133,6 +135,8 @@ I'm passionate about delivering solutions that not only meet technical requireme
     <img src="https://skillicons.dev/icons?i=aws,vercel,heroku&theme=dark" />
   </a>
 </p>
+
+![Bonus](https://github.com/cfatrane/cfatrane/assets/17748314/7208a77b-30bd-497e-8fcb-464f2240028a)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-500%20hrs%2043%20mins-blue)
