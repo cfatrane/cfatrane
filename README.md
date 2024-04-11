@@ -1,4 +1,4 @@
-![Uploading Github Banner (2).gif…]()
+![Github Banner](https://github.com/cfatrane/cfatrane/assets/17748314/e0788b95-4cf2-430b-993a-abf869397e2b)
 
 ![Stats](https://github.com/cfatrane/cfatrane/assets/17748314/8c80230e-1053-480a-ac71-b9cb418a4a7f)
 
