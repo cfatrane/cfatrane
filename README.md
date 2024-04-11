@@ -6,7 +6,7 @@
   <a href="https://github.com/cfatrane?tab=repositories">
     <img
       height="200"
-      src="https://github-readme-stats-cfatrane.vercel.app//api?username=cfatrane&card_width=400&include_all_commits=true&rank_icon=github&number_format=long&show_icons=true&theme=tokyonight"
+      src="https://github-readme-stats-cfatrane.vercel.app//api?username=cfatrane&card_width=400&include_all_commits=true&rank_icon=percentile&number_format=long&show_icons=true&theme=tokyonight"
     />
   </a>
   <a href="https://github.com/cfatrane?tab=repositories">
@@ -44,13 +44,13 @@ Here are some ideas to get you started:
 
 Hello 👋!
 
-An alumnus of Ecole 42 with a wealth of experience spanning 5 years, I'm a Fullstack developer specializing in the design and deployment of web and mobile solutions using React Js , Node.js and React Native.
+An alumnus of Ecole 42 with a wealth of experience spanning 6 years, I'm a Fullstack developer specializing in the design and deployment of web and mobile solutions using **React Js** , **Node Js** and **React Native**.
 
 My career path, which spans innovative startups to large enterprises, has enabled me to develop web platforms, showcase sites, e-commerce solutions, interactive blogs and responsive mobile applications.
 
 I work closely with my clients to understand their needs and exceed their expectations. If you're looking for a developer who combines technical expertise, attention to detail and a holistic approach to web development, I'd be delighted to discuss your project.
 
-I'm passionate about delivering solutions that not **only** meet technical requirements, but also add real value for the end user. If you need an expert who can translate your visions into concrete, high-performance digital experiences, I'm at your disposal to discuss your project and contribute to its success.
+I'm passionate about delivering solutions that not only meet technical requirements, but also add real value for the end user. If you need an expert who can translate your visions into concrete, high-performance digital experiences, I'm at your disposal to discuss your project and contribute to its success.
 
 ![Projects](https://github.com/cfatrane/cfatrane/assets/17748314/5f46b5bd-0e92-4656-a9eb-9b8d8bafd5ef)
 
