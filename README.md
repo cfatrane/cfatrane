@@ -79,6 +79,12 @@ I'm passionate about delivering solutions that not only meet technical requireme
       src="https://github-readme-stats-cfatrane.vercel.app/api/pin/?username=cfatrane&repo=pokedex-app&theme=tokyonight"
     />
   </a>
+  <a href="https://github.com/cfatrane/cfatrane">
+    <img
+      align="center"
+      src="https://github-readme-stats-cfatrane.vercel.app/api/pin/?username=cfatrane&repo=cfatrane&theme=tokyonight"
+    />
+  </a>
 </p>
 
 <!-- ## Gists
@@ -149,6 +155,34 @@ I'm passionate about delivering solutions that not only meet technical requireme
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,vercel,heroku&theme=dark" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.cfatrane.me/">
+    <img
+      src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"
+    />
+  </a>
+  <a href="https://www.linkedin.com/in/cfatrane/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+    />
+  </a>
+  <a href="https://twitter.com/aristoteartem">
+    <img
+      src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"
+    />
+  </a>
+  <a href="https://www.instagram.com/aristoteartem/">
+    <img
+      src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+    />
+  </a>
+  <a href="https://www.codewars.com/users/cfatrane">
+    <img
+      src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"
+    />
   </a>
 </p>
 
