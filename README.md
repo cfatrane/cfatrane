@@ -121,7 +121,7 @@ I'm passionate about delivering solutions that not only meet technical requireme
   </a>
 </p> -->
 
-![Tools](https://github.com/cfatrane/cfatrane/assets/17748314/249f6300-cb36-4cdb-9906-b4bada49e785)
+![Tools](https://github.com/cfatrane/cfatrane/assets/17748314/d500bc15-eb70-400a-b552-d28c2c8812d6)
 
 <!-- Languages -->
 <p align="center">
@@ -157,6 +157,8 @@ I'm passionate about delivering solutions that not only meet technical requireme
     <img src="https://skillicons.dev/icons?i=aws,vercel,heroku&theme=dark" />
   </a>
 </p>
+
+![Contact](https://github.com/cfatrane/cfatrane/assets/17748314/2a2107e9-5f58-4c86-a9f5-c5a4d2952313)
 
 <p align="center">
   <a href="https://www.cfatrane.me/">
