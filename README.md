@@ -191,6 +191,8 @@ I'm passionate about delivering solutions that not only meet technical requireme
 ![Bonus](https://github.com/cfatrane/cfatrane/assets/17748314/7208a77b-30bd-497e-8fcb-464f2240028a)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-523%20hrs%2053%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.1%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -199,9 +201,9 @@ I'm passionate about delivering solutions that not only meet technical requireme
  > 
 > 💼 Opted to Hire
  > 
-> 📜 18 Public Repositories 
+> 📜 19 Public Repositories 
  > 
-> 🔑 29 Private Repositories 
+> 🔑 28 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -256,5 +258,5 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 14/04/2024 01:41:24 UTC
+ Last Updated on 14/04/2024 14:47:29 UTC
 <!--END_SECTION:waka-->
