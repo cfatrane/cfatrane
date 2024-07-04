@@ -191,13 +191,13 @@ I'm passionate about delivering solutions that not only meet technical requireme
 ![Bonus](https://github.com/cfatrane/cfatrane/assets/17748314/7208a77b-30bd-497e-8fcb-464f2240028a)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-872%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-870%20hrs%2055%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.1%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 252.6 kB Used in GitHub's Storage 
+> 📦 252.5 kB Used in GitHub's Storage 
  > 
 > 🏆 1,129 Contributions in the Year 2024
  > 
@@ -234,17 +234,17 @@ Sunday                   409 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-TypeScript               12 hrs 20 mins      █████████████░░░░░░░░░░░░   51.60 % 
-JavaScript               6 hrs 30 mins       ███████░░░░░░░░░░░░░░░░░░   27.19 % 
-JSON                     1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
-Prisma                   1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
-Bash                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+TypeScript               16 hrs 4 mins       ███████████████░░░░░░░░░░   58.86 % 
+JavaScript               6 hrs 31 mins       ██████░░░░░░░░░░░░░░░░░░░   23.88 % 
+JSON                     2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
+Prisma                   1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
+Other                    31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
 
 🔥 Editors: 
-VS Code                  23 hrs 55 mins      █████████████████████████   100.00 % 
+VS Code                  27 hrs 19 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      23 hrs 55 mins      █████████████████████████   100.00 % 
+Mac                      27 hrs 19 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -260,5 +260,5 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 03/07/2024 12:35:42 UTC
+ Last Updated on 04/07/2024 01:18:08 UTC
 <!--END_SECTION:waka-->
