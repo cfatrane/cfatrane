@@ -191,13 +191,15 @@ I'm passionate about delivering solutions that not only meet technical requireme
 ![Bonus](https://github.com/cfatrane/cfatrane/assets/17748314/7208a77b-30bd-497e-8fcb-464f2240028a)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-912%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-918%20hrs%205%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.0%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 252.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 1,163 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -232,17 +234,17 @@ Sunday                   402 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-TypeScript               20 hrs 23 mins      ██████████████████████░░░   88.18 % 
-JSON                     1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
-Other                    38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
-Prisma                   24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
-JavaScript               14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+TypeScript               24 hrs 31 mins      ██████████████████████░░░   88.16 % 
+JSON                     1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
+Other                    44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
+Prisma                   25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+Markdown                 17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
 
 🔥 Editors: 
-VS Code                  23 hrs 7 mins       █████████████████████████   100.00 % 
+VS Code                  27 hrs 49 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      23 hrs 7 mins       █████████████████████████   100.00 % 
+Mac                      27 hrs 49 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -258,5 +260,5 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 27/07/2024 00:23:05 UTC
+ Last Updated on 27/07/2024 12:10:46 UTC
 <!--END_SECTION:waka-->
