@@ -191,7 +191,7 @@ I'm passionate about delivering solutions that not only meet technical requireme
 ![Bonus](https://github.com/cfatrane/cfatrane/assets/17748314/7208a77b-30bd-497e-8fcb-464f2240028a)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-985%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-993%20hrs%2053%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.1%20million%20lines%20of%20code-blue)
 
@@ -199,7 +199,7 @@ I'm passionate about delivering solutions that not only meet technical requireme
 
 > 📦 254.7 kB Used in GitHub's Storage 
  > 
-> 🏆 1,193 Contributions in the Year 2024
+> 🏆 0 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -234,17 +234,17 @@ Sunday                   502 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-TypeScript               23 hrs 55 mins      ███████████████████████░░   90.96 % 
-JSON                     1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
-CSS                      27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
-Image (svg)              16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
-JavaScript               9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+TypeScript               29 hrs 14 mins      ██████████████████████░░░   89.51 % 
+JSON                     1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
+CSS                      38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+Image (svg)              16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+JavaScript               11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
 
 🔥 Editors: 
-VS Code                  26 hrs 17 mins      █████████████████████████   100.00 % 
+VS Code                  32 hrs 39 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      26 hrs 17 mins      █████████████████████████   100.00 % 
+Mac                      32 hrs 39 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -260,5 +260,5 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 12/08/2024 00:24:36 UTC
+ Last Updated on 12/08/2024 12:11:58 UTC
 <!--END_SECTION:waka-->
