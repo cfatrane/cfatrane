@@ -191,13 +191,15 @@ I'm passionate about delivering solutions that not only meet technical requireme
 ![Bonus](https://github.com/cfatrane/cfatrane/assets/17748314/7208a77b-30bd-497e-8fcb-464f2240028a)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C274%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C281%20hrs%2056%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.5%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 264.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 2,174 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -232,17 +234,17 @@ Sunday                   1126 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-TypeScript               34 hrs 26 mins      ████████████████████░░░░░   78.80 % 
-Other                    2 hrs 51 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
-JSON                     2 hrs 50 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
-Bash                     50 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
-Markdown                 48 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+TypeScript               39 hrs 37 mins      █████████████████████░░░░   83.17 % 
+Other                    2 hrs 42 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
+JSON                     2 hrs 16 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
+Prisma                   1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
+Markdown                 45 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
 
 🔥 Editors: 
-VS Code                  43 hrs 41 mins      █████████████████████████   100.00 % 
+VS Code                  47 hrs 37 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      43 hrs 41 mins      █████████████████████████   100.00 % 
+Mac                      47 hrs 37 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -258,5 +260,5 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 28/09/2024 00:26:47 UTC
+ Last Updated on 28/09/2024 12:10:52 UTC
 <!--END_SECTION:waka-->
