@@ -61,7 +61,7 @@ I'm passionate about delivering solutions that not only meet technical requireme
       src="https://github-readme-stats-cfatrane.vercel.app/api/pin/?username=cfatrane&repo=nextjs-boilerplate&theme=tokyonight"
     />
   </a>
-  <a href="https://github.com/cfatrane/your-life-in)">
+  <a href="https://github.com/cfatrane/your-life-in">
     <img
       align="center"
       src="https://github-readme-stats-cfatrane.vercel.app/api/pin/?username=cfatrane&repo=your-life-in&theme=tokyonight"
