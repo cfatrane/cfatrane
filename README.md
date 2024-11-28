@@ -191,7 +191,7 @@ I'm passionate about delivering solutions that not only meet technical requireme
 ![Bonus](https://github.com/cfatrane/cfatrane/assets/17748314/7208a77b-30bd-497e-8fcb-464f2240028a)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C408%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C409%20hrs%2031%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.8%20million%20lines%20of%20code-blue)
 
@@ -234,13 +234,17 @@ Sunday                   1541 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-TypeScript               16 mins             █████████████████████████   100.00 % 
+TypeScript               1 hr 17 mins        █████████████████████░░░░   82.24 % 
+JSON                     10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
+YAML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
+Prisma                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
 
 🔥 Editors: 
-VS Code                  16 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 34 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      16 mins             █████████████████████████   100.00 % 
+Mac                      1 hr 34 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -256,5 +260,5 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 28/11/2024 01:45:53 UTC
+ Last Updated on 28/11/2024 12:46:45 UTC
 <!--END_SECTION:waka-->
