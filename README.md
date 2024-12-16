@@ -199,8 +199,6 @@ I'm passionate about delivering solutions that not only meet technical requireme
 
 > 📦 265.3 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 24 Public Repositories 
@@ -256,5 +254,5 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 15/12/2024 12:12:22 UTC
+ Last Updated on 16/12/2024 00:31:18 UTC
 <!--END_SECTION:waka-->
