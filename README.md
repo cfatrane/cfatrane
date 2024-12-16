@@ -199,6 +199,8 @@ I'm passionate about delivering solutions that not only meet technical requireme
 
 > 📦 265.3 kB Used in GitHub's Storage 
  > 
+> 🏆 2,324 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 24 Public Repositories 
@@ -232,13 +234,13 @@ Sunday                   2123 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-TypeScript               2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -254,5 +256,5 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 16/12/2024 00:31:18 UTC
+ Last Updated on 16/12/2024 12:14:14 UTC
 <!--END_SECTION:waka-->
