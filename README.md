@@ -191,7 +191,7 @@ I'm passionate about delivering solutions that not only meet technical requireme
 ![Bonus](https://github.com/cfatrane/cfatrane/assets/17748314/7208a77b-30bd-497e-8fcb-464f2240028a)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C426%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C426%20hrs%2055%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.6%20million%20lines%20of%20code-blue)
 
@@ -199,54 +199,12 @@ I'm passionate about delivering solutions that not only meet technical requireme
 
 > 📦 266.5 kB Used in GitHub's Storage 
  > 
-> 🏆 7 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 24 Public Repositories 
  > 
 > 🔑 40 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                3209 commits        █████░░░░░░░░░░░░░░░░░░░░   20.03 % 
-🌆 Daytime                5621 commits        █████████░░░░░░░░░░░░░░░░   35.09 % 
-🌃 Evening                5947 commits        █████████░░░░░░░░░░░░░░░░   37.13 % 
-🌙 Night                  1240 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   2209 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-Tuesday                  2326 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
-Wednesday                2247 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
-Thursday                 2678 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
-Friday                   2146 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
-Saturday                 2237 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
-Sunday                   2174 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Paris
-
-💬 Programming Languages: 
-TypeScript               3 hrs 44 mins       ██████████████████████░░░   88.00 % 
-Markdown                 19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
-Other                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
-GraphQL                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-
-🔥 Editors: 
-VS Code                  4 hrs 15 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      4 hrs 15 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -260,5 +218,5 @@ PHP                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/01/2025 00:28:37 UTC
+ Last Updated on 07/01/2025 12:15:11 UTC
 <!--END_SECTION:waka-->
