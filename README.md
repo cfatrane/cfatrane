@@ -191,6 +191,8 @@ I'm passionate about delivering solutions that not only meet technical requireme
 ![Bonus](https://github.com/cfatrane/cfatrane/assets/17748314/7208a77b-30bd-497e-8fcb-464f2240028a)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C519%20hrs%2011%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.2%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -258,5 +260,5 @@ PHP                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/02/2025 00:32:38 UTC
+ Last Updated on 16/02/2025 12:14:02 UTC
 <!--END_SECTION:waka-->
