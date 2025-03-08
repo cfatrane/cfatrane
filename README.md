@@ -191,13 +191,15 @@ I'm passionate about delivering solutions that not only meet technical requireme
 ![Bonus](https://github.com/cfatrane/cfatrane/assets/17748314/7208a77b-30bd-497e-8fcb-464f2240028a)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C591%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C591%20hrs%2017%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.6%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 270.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 456 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -232,17 +234,17 @@ Sunday                   2716 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-TypeScript               5 hrs 30 mins       █████████████████░░░░░░░░   67.42 % 
-JSON                     53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
-JavaScript               25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
-Markdown                 25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
-Prisma                   15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
+TypeScript               5 hrs 34 mins       █████████████████░░░░░░░░   67.51 % 
+JSON                     53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
+JavaScript               25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
+Markdown                 25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
+Other                    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 10 mins       █████████████████████████   100.00 % 
+VS Code                  8 hrs 16 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      8 hrs 10 mins       █████████████████████████   100.00 % 
+Mac                      8 hrs 16 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -258,5 +260,5 @@ PHP                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 08/03/2025 00:26:43 UTC
+ Last Updated on 08/03/2025 12:11:41 UTC
 <!--END_SECTION:waka-->
