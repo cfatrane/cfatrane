@@ -198,13 +198,15 @@ I'm passionate about delivering solutions that not only meet technical requireme
 ![Bonus](https://github.com/cfatrane/cfatrane/assets/17748314/7208a77b-30bd-497e-8fcb-464f2240028a)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C758%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C759%20hrs%2027%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.7%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 272.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 610 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -239,16 +241,16 @@ Sunday                   2359 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-JavaScript               1 hr 2 mins         ███████████████░░░░░░░░░░   59.43 % 
-JSON                     28 mins             ███████░░░░░░░░░░░░░░░░░░   27.12 % 
-Other                    12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
-TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+JavaScript               1 hr 50 mins        █████████████████░░░░░░░░   66.07 % 
+JSON                     39 mins             ██████░░░░░░░░░░░░░░░░░░░   23.50 % 
+Other                    12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
+TypeScript               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
 
 🔥 Editors: 
-VS Code                  1 hr 44 mins        █████████████████████████   100.00 % 
+VS Code                  2 hrs 47 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 44 mins        █████████████████████████   100.00 % 
+Mac                      2 hrs 47 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -264,5 +266,5 @@ PHP                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/05/2025 00:34:40 UTC
+ Last Updated on 04/05/2025 12:14:23 UTC
 <!--END_SECTION:waka-->
