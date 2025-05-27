@@ -198,15 +198,13 @@ I'm passionate about delivering solutions that not only meet technical requireme
 ![Bonus](https://github.com/cfatrane/cfatrane/assets/17748314/7208a77b-30bd-497e-8fcb-464f2240028a)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C847%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C845%20hrs%209%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.7%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 272.7 kB Used in GitHub's Storage 
- > 
-> 🏆 655 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -217,19 +215,19 @@ I'm passionate about delivering solutions that not only meet technical requireme
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                3702 commits        █████░░░░░░░░░░░░░░░░░░░░   19.89 % 
-🌆 Daytime                6971 commits        █████████░░░░░░░░░░░░░░░░   37.45 % 
-🌃 Evening                6631 commits        █████████░░░░░░░░░░░░░░░░   35.62 % 
+🌞 Morning                3702 commits        █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
+🌆 Daytime                6973 commits        █████████░░░░░░░░░░░░░░░░   37.45 % 
+🌃 Evening                6632 commits        █████████░░░░░░░░░░░░░░░░   35.62 % 
 🌙 Night                  1312 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   2576 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
+Monday                   2579 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
 Tuesday                  3090 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
 Wednesday                2951 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
 Thursday                 3106 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
-Friday                   2224 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
+Friday                   2224 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
 Saturday                 2290 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
 Sunday                   2379 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
 ```
@@ -267,5 +265,5 @@ PHP                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/05/2025 12:49:50 UTC
+ Last Updated on 27/05/2025 01:55:10 UTC
 <!--END_SECTION:waka-->
