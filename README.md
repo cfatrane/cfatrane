@@ -198,13 +198,15 @@ I'm passionate about delivering solutions that not only meet technical requireme
 ![Bonus](https://github.com/cfatrane/cfatrane/assets/17748314/7208a77b-30bd-497e-8fcb-464f2240028a)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C968%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C975%20hrs%2049%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.8%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 273.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 830 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -239,17 +241,17 @@ Sunday                   2392 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-TypeScript               24 hrs 1 min        ████████████████████░░░░░   81.21 % 
-JSON                     3 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
-Other                    58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
-Ruby                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
-JavaScript               16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+TypeScript               22 hrs 29 mins      ████████████████████░░░░░   79.32 % 
+JSON                     3 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
+Other                    49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+Ruby                     34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+Bash                     28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
 
 🔥 Editors: 
-VS Code                  29 hrs 34 mins      █████████████████████████   100.00 % 
+VS Code                  28 hrs 21 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      29 hrs 34 mins      █████████████████████████   100.00 % 
+Mac                      28 hrs 21 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -265,5 +267,5 @@ PHP                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 27/06/2025 02:01:20 UTC
+ Last Updated on 27/06/2025 12:54:47 UTC
 <!--END_SECTION:waka-->
