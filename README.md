@@ -25,13 +25,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://profile-counter.glitch.me/{cfatrane}/count.svg" />
-  </a>
-</p>
-
-
 <!--
 **cfatrane/cfatrane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub comofile.
 
