@@ -191,13 +191,15 @@ I'm passionate about delivering solutions that not only meet technical requireme
 ![Bonus](https://github.com/cfatrane/cfatrane/assets/17748314/7208a77b-30bd-497e-8fcb-464f2240028a)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C066%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C066%20hrs%2012%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.2%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 274.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 972 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -232,17 +234,17 @@ Sunday                   2677 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-TypeScript               3 hrs 30 mins       █████████░░░░░░░░░░░░░░░░   36.68 % 
-JSON                     3 hrs 18 mins       █████████░░░░░░░░░░░░░░░░   34.66 % 
-JavaScript               1 hr 22 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
-Other                    26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-TSConfig                 25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
+JSON                     1 hr 31 mins        ████████░░░░░░░░░░░░░░░░░   33.76 % 
+JavaScript               1 hr 20 mins        ███████░░░░░░░░░░░░░░░░░░   29.60 % 
+TypeScript               1 hr                ██████░░░░░░░░░░░░░░░░░░░   22.10 % 
+Other                    24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
+YAML                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 33 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 32 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      9 hrs 33 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 32 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -258,5 +260,5 @@ PHP                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 08/08/2025 00:37:46 UTC
+ Last Updated on 08/08/2025 12:18:40 UTC
 <!--END_SECTION:waka-->
