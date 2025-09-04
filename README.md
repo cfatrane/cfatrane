@@ -191,7 +191,7 @@ I'm passionate about delivering solutions that not only meet technical requireme
 ![Bonus](https://github.com/cfatrane/cfatrane/assets/17748314/7208a77b-30bd-497e-8fcb-464f2240028a)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C090%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C093%20hrs%2018%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.2%20million%20lines%20of%20code-blue)
 
@@ -199,7 +199,7 @@ I'm passionate about delivering solutions that not only meet technical requireme
 
 > 📦 274.2 kB Used in GitHub's Storage 
  > 
-> 🏆 1,030 Contributions in the Year 2025
+> 🏆 1,031 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -234,17 +234,17 @@ Sunday                   2708 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-TypeScript               9 hrs 29 mins       ████████████████████░░░░░   81.35 % 
-JSON                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
-Bash                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
-Other                    33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
-TSConfig                 23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
+TypeScript               11 hrs 3 mins       ████████████████████░░░░░   81.84 % 
+JSON                     50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
+Other                    36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
+Bash                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
+TSConfig                 22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 39 mins      █████████████████████████   100.00 % 
+VS Code                  13 hrs 30 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      11 hrs 39 mins      █████████████████████████   100.00 % 
+Mac                      13 hrs 30 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -260,5 +260,5 @@ PHP                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/09/2025 00:34:07 UTC
+ Last Updated on 04/09/2025 12:16:59 UTC
 <!--END_SECTION:waka-->
