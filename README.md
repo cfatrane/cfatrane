@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-  <a href="https://app.daily.dev/chedfa"
+  <a href="https://app.daily.dev/cfatrane"
     ><img
       src="https://api.daily.dev/devcards/v2/Rne5cclm7rCbjByR97krj.png?r=bjw&type=wide"
       width="652"
