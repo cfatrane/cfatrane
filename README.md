@@ -25,6 +25,15 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://app.daily.dev/chedfa"
+    ><img
+      src="https://api.daily.dev/devcards/v2/Rne5cclm7rCbjByR97krj.png?r=bjw&type=wide"
+      width="652"
+      alt="Charles-Édouard Fatrane's Dev Card"
+  /></a>
+</p>
+
 <!--
 **cfatrane/cfatrane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub comofile.
 
