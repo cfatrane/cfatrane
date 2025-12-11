@@ -200,7 +200,7 @@ I'm passionate about delivering solutions that not only meet technical requireme
 ![Bonus](https://github.com/cfatrane/cfatrane/assets/17748314/7208a77b-30bd-497e-8fcb-464f2240028a)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C402%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C411%20hrs%205%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.0%20million%20lines%20of%20code-blue)
 
@@ -243,11 +243,11 @@ Sunday                   2781 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-TypeScript               28 hrs 38 mins      ████████████████████░░░░░   81.53 % 
-JSON                     2 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-JavaScript               1 hr 47 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
-Other                    53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
-Prisma                   41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+TypeScript               27 hrs 51 mins      ████████████████████░░░░░   79.26 % 
+JSON                     3 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
+JavaScript               1 hr 52 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
+Other                    56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+Prisma                   33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
 
 🔥 Editors: 
 VS Code                  35 hrs 8 mins       █████████████████████████   100.00 % 
@@ -269,5 +269,5 @@ PHP                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 11/12/2025 00:36:53 UTC
+ Last Updated on 11/12/2025 12:17:59 UTC
 <!--END_SECTION:waka-->
