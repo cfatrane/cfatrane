@@ -1,0 +1,47 @@
+name: Update Streak Stats
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 3 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-streak:
+    name: Generate streak stats card
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v6
+
+      - name: Generate streak stats card
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          options: user=cfatrane&theme=tokyonight
+          path: profile/streak.svg
+          token: ${{ secrets.GH_TOKEN }}
+
+      - name: Commit updated streak stats card
+        env:
+          COMMIT_USERNAME: ${{ vars.COMMIT_USERNAME }}
+          COMMIT_EMAIL: ${{ vars.COMMIT_EMAIL }}
+        run: |
+          git add profile/streak.svg
+
+          if git diff --cached --quiet; then
+            echo "Streak stats card is already up to date."
+            exit 0
+          fi
+
+          if [ -z "$COMMIT_USERNAME" ] || [ -z "$COMMIT_EMAIL" ]; then
+            echo "COMMIT_USERNAME and COMMIT_EMAIL repository variables are required."
+            exit 1
+          fi
+
+          git config user.name "$COMMIT_USERNAME"
+          git config user.email "$COMMIT_EMAIL"
+          git commit -m "chore(profile): update streak stat card"
+          git push
