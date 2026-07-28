@@ -1,0 +1,98 @@
+name: Update GitHub Stats
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 1 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-stats:
+    name: Generate GitHub stats cards
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v6
+
+      - name: Prepare output directory
+        run: mkdir -p profile
+
+      - name: Generate stats card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=cfatrane&card_width=400&include_all_commits=true&rank_icon=percentile&number_format=long&show_icons=true&theme=tokyonight
+          path: profile/stats.svg
+          token: ${{ secrets.GH_TOKEN }}
+          fail_on_error: true
+
+      - name: Generate top languages card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=cfatrane&card_width=320&size_weight=0.5&count_weight=0.5&hide=c,java,makefile,mdx,objective-c,php,shell,ruby,starlark,vim%20script&langs_count=6&layout=compact&theme=tokyonight
+          path: profile/top-langs.svg
+          token: ${{ secrets.GH_TOKEN }}
+          fail_on_error: true
+
+      - name: Generate nextjs-boilerplate pin
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=cfatrane&repo=nextjs-boilerplate&theme=tokyonight
+          path: profile/pin-nextjs-boilerplate.svg
+          token: ${{ secrets.GH_TOKEN }}
+          fail_on_error: true
+
+      - name: Generate your-life-in pin
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=cfatrane&repo=your-life-in&theme=tokyonight
+          path: profile/pin-your-life-in.svg
+          token: ${{ secrets.GH_TOKEN }}
+          fail_on_error: true
+
+      - name: Generate react-native-boilerplate pin
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=cfatrane&repo=react-native-boilerplate&theme=tokyonight
+          path: profile/pin-react-native-boilerplate.svg
+          token: ${{ secrets.GH_TOKEN }}
+          fail_on_error: true
+
+      - name: Generate pokedex-app pin
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=cfatrane&repo=pokedex-app&theme=tokyonight
+          path: profile/pin-pokedex-app.svg
+          token: ${{ secrets.GH_TOKEN }}
+          fail_on_error: true
+
+      - name: Generate profile repository pin
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=cfatrane&repo=cfatrane&theme=tokyonight
+          path: profile/pin-cfatrane.svg
+          token: ${{ secrets.GH_TOKEN }}
+          fail_on_error: true
+
+      - name: Commit updated cards
+        run: |
+          git add profile/*.svg
+
+          if git diff --cached --quiet; then
+            echo "GitHub stats cards are already up to date."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore(profile): update GitHub stat cards"
+          git push
