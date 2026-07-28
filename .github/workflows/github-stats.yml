@@ -84,6 +84,9 @@ jobs:
           fail_on_error: true
 
       - name: Commit updated cards
+        env:
+          COMMIT_USERNAME: ${{ vars.COMMIT_USERNAME }}
+          COMMIT_EMAIL: ${{ vars.COMMIT_EMAIL }}
         run: |
           git add profile/*.svg
 
@@ -92,7 +95,12 @@ jobs:
             exit 0
           fi
 
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if [ -z "$COMMIT_USERNAME" ] || [ -z "$COMMIT_EMAIL" ]; then
+            echo "COMMIT_USERNAME and COMMIT_EMAIL repository variables are required."
+            exit 1
+          fi
+
+          git config user.name "$COMMIT_USERNAME"
+          git config user.email "$COMMIT_EMAIL"
           git commit -m "chore(profile): update GitHub stat cards"
           git push
