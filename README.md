@@ -20,7 +20,7 @@
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img
-      src="https://github-readme-streak-stats-cfatranes-projects.vercel.app?user=cfatrane&theme=tokyonight"
+      src="./profile/streak.svg"
     />
   </a>
 </p>
