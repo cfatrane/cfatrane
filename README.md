@@ -6,13 +6,13 @@
   <a href="https://github.com/cfatrane?tab=repositories">
     <img
       height="200"
-      src="https://github-readme-stats-cfatrane.vercel.app//api?username=cfatrane&card_width=400&include_all_commits=true&rank_icon=percentile&number_format=long&show_icons=true&theme=tokyonight"
+      src="./profile/stats.svg"
     />
   </a>
   <a href="https://github.com/cfatrane?tab=repositories">
     <img
       height="200"
-      src="https://github-readme-stats-cfatrane.vercel.app//api/top-langs/?username=cfatrane&card_width=320&size_weight=0.5&count_weight=0.5&hide=c,java,makefile,mdx,objective-c,php,shell,ruby,starlark,vim%20script&langs_count=6&layout=compact&theme=tokyonight"
+      src="./profile/top-langs.svg"
     />
   </a>
 </p>
@@ -67,39 +67,34 @@ I'm passionate about delivering solutions that not only meet technical requireme
   <a href="https://github.com/cfatrane/nextjs-boilerplate">
     <img
       align="center"
-      src="https://github-readme-stats-cfatrane.vercel.app/api/pin/?username=cfatrane&repo=nextjs-boilerplate&theme=tokyonight"
+      src="./profile/pin-nextjs-boilerplate.svg"
     />
   </a>
   <a href="https://github.com/cfatrane/your-life-in">
     <img
       align="center"
-      src="https://github-readme-stats-cfatrane.vercel.app/api/pin/?username=cfatrane&repo=your-life-in&theme=tokyonight"
+      src="./profile/pin-your-life-in.svg"
     />
   </a>
   <a href="https://github.com/cfatrane/react-native-boilerplate">
     <img
       align="center"
-      src="https://github-readme-stats-cfatrane.vercel.app/api/pin/?username=cfatrane&repo=react-native-boilerplate&theme=tokyonight"
+      src="./profile/pin-react-native-boilerplate.svg"
     />
   </a>
   <a href="https://github.com/cfatrane/pokedex-app">
     <img
       align="center"
-      src="https://github-readme-stats-cfatrane.vercel.app/api/pin/?username=cfatrane&repo=pokedex-app&theme=tokyonight"
+      src="./profile/pin-pokedex-app.svg"
     />
   </a>
   <a href="https://github.com/cfatrane/cfatrane">
     <img
       align="center"
-      src="https://github-readme-stats-cfatrane.vercel.app/api/pin/?username=cfatrane&repo=cfatrane&theme=tokyonight"
+      src="./profile/pin-cfatrane.svg"
     />
   </a>
 </p>
-
-<!-- ## Gists
-
-[![Gist Card](https://github-readme-stats-cfatrane.vercel.app/api/gist?id=7283dd0e09da9c5c103d207f412c2a52)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
-[![Gist Card](https://github-readme-stats-cfatrane.vercel.app/api/gist?id=398235c3c889a88aca0f3471ea163e27)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/) -->
 
 <!-- ## Experiences -->
 
