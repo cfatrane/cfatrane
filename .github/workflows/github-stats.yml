@@ -38,6 +38,15 @@ jobs:
           token: ${{ secrets.GH_TOKEN }}
           fail_on_error: true
 
+      - name: Generate monorepo-boilerplate pin
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=cfatrane&repo=monorepo-boilerplate&theme=tokyonight
+          path: profile/pin-monorepo-boilerplate.svg
+          token: ${{ secrets.GH_TOKEN }}
+          fail_on_error: true
+
       - name: Generate nextjs-boilerplate pin
         uses: stats-organization/github-readme-stats-action@v2
         with:
