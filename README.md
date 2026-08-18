@@ -55,6 +55,12 @@ I'm passionate about delivering solutions that not only meet technical requireme
 ![Projects](https://github.com/cfatrane/cfatrane/assets/17748314/5f46b5bd-0e92-4656-a9eb-9b8d8bafd5ef)
 
 <p align="center">
+  <a href="https://github.com/cfatrane/monorepo-boilerplate">
+    <img
+      align="center"
+      src="./profile/pin-monorepo-boilerplate.svg"
+    />
+  </a>
   <a href="https://github.com/cfatrane/nextjs-boilerplate">
     <img
       align="center"
