@@ -1,6 +1,11 @@
 ![Github Banner (3)](https://github.com/cfatrane/cfatrane/assets/17748314/35902061-ad24-41d0-b62f-a77a7300ea71)
 
+![Github Banner (3)]([https://github.com/cfatrane/cfatrane/assets/17748314/35902061-ad24-41d0-b62f-a77a7300ea71](https://github.com/user-attachments/assets/29ecd27c-6ae1-4e56-8153-a26b44cbe320))
+
 https://github.com/user-attachments/assets/52788058-8cf8-49ff-95ae-60f8932cc4ac
+
+<img width="1280" height="640" alt="Github Banner (1)" src="https://github.com/user-attachments/assets/29ecd27c-6ae1-4e56-8153-a26b44cbe320" />
+
 
 ![Stats](https://github.com/cfatrane/cfatrane/assets/17748314/8c80230e-1053-480a-ac71-b9cb418a4a7f)
 
