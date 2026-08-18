@@ -1,5 +1,7 @@
 ![Github Banner (3)](https://github.com/cfatrane/cfatrane/assets/17748314/35902061-ad24-41d0-b62f-a77a7300ea71)
 
+https://github.com/user-attachments/assets/52788058-8cf8-49ff-95ae-60f8932cc4ac
+
 ![Stats](https://github.com/cfatrane/cfatrane/assets/17748314/8c80230e-1053-480a-ac71-b9cb418a4a7f)
 
 <p align="center">
