@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Charles-&#201;douard Fatrane&#39;s GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 37, Total Commits  : 4619, Total PRs: 307, Total Issues: 96, Contributed to (last year): 2</desc>
+        <desc id="descId">Total Stars Earned: 37, Total Commits  : 4622, Total PRs: 308, Total Issues: 96, Contributed to (last year): 2</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,11 +73,12 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 56.938672283568216;
+        stroke-dashoffset: 55.23047197591603;
       }
     }
   
   
+          
 
           
       /* Animations */
@@ -102,9 +103,15 @@
         </style>
 
         
+        <defs>
+          
+          
+        </defs>
+        
 
         <rect
           data-testid="card-bg"
+          class="card-bg"
           x="0.5"
           y="0.5"
           rx="4.5"
@@ -146,7 +153,7 @@
           Top
         </text>
         <text x="-5" y="12" alignment-baseline="central" dominant-baseline="central" text-anchor="middle" data-testid="percentile-rank-value" class="rank-percentile-text">
-          22.7%
+          22.0%
         </text>
       
         </g>
@@ -180,7 +187,7 @@
         x="224.01"
         y="12.5"
         data-testid="commits"
-      >4619</text>
+      >4622</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -195,7 +202,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >307</text>
+      >308</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
