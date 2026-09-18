@@ -192,9 +192,9 @@ I'm passionate about delivering solutions that not only meet technical requireme
 ![Bonus](https://github.com/cfatrane/cfatrane/assets/17748314/7208a77b-30bd-497e-8fcb-464f2240028a)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C767%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C773%20hrs%2042%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-225%20hrs-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-230%20hrs%2016%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.20%20million%20lines%20of%20code-blue?style=flat)
 
@@ -202,7 +202,7 @@ I'm passionate about delivering solutions that not only meet technical requireme
 
 > 📦 290.9 kB Used in GitHub's Storage 
  > 
-> 🏆 784 Contributions in the Year 2026
+> 🏆 787 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -216,7 +216,7 @@ I'm passionate about delivering solutions that not only meet technical requireme
 🌞 Morning                10016 commits       █████░░░░░░░░░░░░░░░░░░░░   18.16 % 
 🌆 Daytime                20898 commits       █████████░░░░░░░░░░░░░░░░   37.89 % 
 🌃 Evening                20531 commits       █████████░░░░░░░░░░░░░░░░   37.23 % 
-🌙 Night                  3705 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
+🌙 Night                  3708 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
@@ -224,7 +224,7 @@ I'm passionate about delivering solutions that not only meet technical requireme
 Monday                   7602 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
 Tuesday                  8065 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
 Wednesday                8583 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
-Thursday                 10019 commits       █████░░░░░░░░░░░░░░░░░░░░   18.17 % 
+Thursday                 10022 commits       █████░░░░░░░░░░░░░░░░░░░░   18.17 % 
 Friday                   6376 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
 Saturday                 6653 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
 Sunday                   7852 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
@@ -237,41 +237,41 @@ Sunday                   7852 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-TypeScript               5 hrs 58 mins       █████████████████░░░░░░░░   67.42 % 
-Markdown                 1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
-JSON                     39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
-Git Config               35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
-SSH Config               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+TypeScript               11 hrs 6 mins       ██████████████████░░░░░░░   73.15 % 
+Markdown                 1 hr 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
+JSON                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
+Git Config               35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+Bash                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 53 mins       █████████████████░░░░░░░░   66.59 % 
-Codex Vscode             2 hrs 57 mins       ████████░░░░░░░░░░░░░░░░░   33.41 % 
+VS Code                  8 hrs 47 mins       ██████████████░░░░░░░░░░░   57.85 % 
+Codex Vscode             6 hrs 24 mins       ███████████░░░░░░░░░░░░░░   42.15 % 
 
 💻 Operating System: 
-Mac                      8 hrs 51 mins       █████████████████████████   100.00 % 
+Mac                      15 hrs 11 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 22 mins (60.7%)
+⏱ AI Coding Time: 10 hrs 38 mins (70.04%)
 
-✍️ 432 lines written by AI, 98 lines written by hand (81.51% AI-written)
+✍️ 684 lines written by AI, 106 lines written by hand (86.58% AI-written)
 
-🔤 3,239,960 Input Tokens, 212,201 Output Tokens
+🔤 8,638,494 Input Tokens, 454,745 Output Tokens
 
-💵 $55.92 Estimated AI Cost This Week
+💵 $128.35 Estimated AI Cost This Week
 
-🧠 35 AI Sessions, 122 AI Prompts
+🧠 58 AI Sessions, 201 AI Prompts
 
-GPT                      561 lines           █████████████████████████   100.00 % 
+GPT                      894 lines           █████████████████████████   100.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 81.51% of written lines came from AI
-📚 Verbose Prompter — average 4,755 characters per prompt
+🤖 AI-Driven — 86.58% of written lines came from AI
+📚 Verbose Prompter — average 3,190 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 25.1% of changed lines were hand-edited
+🚀 High AI Trust — 20.81% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -287,5 +287,5 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 17/09/2026 00:26:46 UTC
+ Last Updated on 18/09/2026 00:27:16 UTC
 <!--END_SECTION:waka-->
