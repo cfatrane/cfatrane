@@ -67,12 +67,6 @@ I'm passionate about delivering solutions that not only meet technical requireme
       src="./profile/pin-nextjs-boilerplate.svg"
     />
   </a>
-  <a href="https://github.com/cfatrane/your-life-in">
-    <img
-      align="center"
-      src="./profile/pin-your-life-in.svg"
-    />
-  </a>
   <a href="https://github.com/cfatrane/react-native-boilerplate">
     <img
       align="center"

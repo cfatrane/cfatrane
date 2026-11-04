@@ -56,15 +56,6 @@ jobs:
           token: ${{ secrets.GH_TOKEN }}
           fail_on_error: true
 
-      - name: Generate your-life-in pin
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: pin
-          options: username=cfatrane&repo=your-life-in&theme=tokyonight
-          path: profile/pin-your-life-in.svg
-          token: ${{ secrets.GH_TOKEN }}
-          fail_on_error: true
-
       - name: Generate react-native-boilerplate pin
         uses: stats-organization/github-readme-stats-action@v2
         with:
