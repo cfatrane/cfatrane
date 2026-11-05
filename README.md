@@ -186,13 +186,17 @@ I'm passionate about delivering solutions that not only meet technical requireme
 ![Bonus](https://github.com/cfatrane/cfatrane/assets/17748314/7208a77b-30bd-497e-8fcb-464f2240028a)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.75%20million%20lines%20of%20code-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C884%20hrs%2047%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-358%20hrs%2025%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-19.98%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 297.1 kB Used in GitHub's Storage 
+> 📦 297.3 kB Used in GitHub's Storage 
  > 
-> 🏆 1,123 Contributions in the Year 2026
+> 🏆 1,204 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -200,6 +204,69 @@ I'm passionate about delivering solutions that not only meet technical requireme
  > 
 > 🔑 47 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                11277 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.93 % 
+🌆 Daytime                23564 commits       █████████░░░░░░░░░░░░░░░░   37.47 % 
+🌃 Evening                23492 commits       █████████░░░░░░░░░░░░░░░░   37.36 % 
+🌙 Night                  4555 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   8545 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
+Tuesday                  9288 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
+Wednesday                10058 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
+Thursday                 11477 commits       █████░░░░░░░░░░░░░░░░░░░░   18.25 % 
+Friday                   7169 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
+Saturday                 7477 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
+Sunday                   8874 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Paris
+
+💬 Programming Languages: 
+TypeScript               21 hrs 59 mins      █████████████░░░░░░░░░░░░   50.81 % 
+Markdown                 7 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
+Other                    6 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
+JSON                     5 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
+Text                     47 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+
+🔥 Editors: 
+VS Code                  34 hrs 45 mins      ████████████████████░░░░░   80.33 % 
+Codex Vscode             8 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   19.67 % 
+
+💻 Operating System: 
+Mac                      43 hrs 15 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 42 hrs 48 mins (98.94%)
+
+✍️ 28,065 lines written by AI, 5 lines written by hand (99.98% AI-written)
+
+🔤 64,829,288 Input Tokens, 6,241,495 Output Tokens
+
+💵 $493.40 Estimated AI Cost This Week
+
+🧠 558 AI Sessions, 583 AI Prompts
+
+GPT                      28,826 lines        █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.98% of written lines came from AI
+📚 Verbose Prompter — average 1,613 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🚀 High AI Trust — 0.03% of changed lines were hand-edited
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -213,5 +280,5 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 05/11/2026 00:24:56 UTC
+ Last Updated on 05/11/2026 07:17:57 UTC
 <!--END_SECTION:waka-->
