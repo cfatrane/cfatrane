@@ -196,7 +196,7 @@ I'm passionate about delivering solutions that not only meet technical requireme
 
 > 📦 297.7 kB Used in GitHub's Storage 
  > 
-> 🏆 1,267 Contributions in the Year 2026
+> 🏆 1,270 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -210,15 +210,15 @@ I'm passionate about delivering solutions that not only meet technical requireme
 🌞 Morning                10148 commits       █████░░░░░░░░░░░░░░░░░░░░   18.01 % 
 🌆 Daytime                21148 commits       █████████░░░░░░░░░░░░░░░░   37.54 % 
 🌃 Evening                20878 commits       █████████░░░░░░░░░░░░░░░░   37.06 % 
-🌙 Night                  4158 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
+🌙 Night                  4161 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   7715 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
+Monday                   7715 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
 Tuesday                  8325 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
 Wednesday                8956 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
-Thursday                 10261 commits       █████░░░░░░░░░░░░░░░░░░░░   18.22 % 
+Thursday                 10264 commits       █████░░░░░░░░░░░░░░░░░░░░   18.22 % 
 Friday                   6440 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
 Saturday                 6722 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
 Sunday                   7913 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
@@ -231,39 +231,39 @@ Sunday                   7913 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-TypeScript               5 hrs 59 mins       █████████░░░░░░░░░░░░░░░░   37.16 % 
-JSON                     4 hrs 17 mins       ███████░░░░░░░░░░░░░░░░░░   26.60 % 
-Markdown                 3 hrs 51 mins       ██████░░░░░░░░░░░░░░░░░░░   23.90 % 
-Other                    1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
-JavaScript               12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+TypeScript               7 hrs 31 mins       █████████░░░░░░░░░░░░░░░░   37.85 % 
+Markdown                 5 hrs 18 mins       ███████░░░░░░░░░░░░░░░░░░   26.64 % 
+Other                    3 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
+Text                     1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
+JSON                     1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 35 mins      ███████████████████████░░   90.35 % 
-Codex Vscode             1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
+VS Code                  19 hrs 12 mins      ████████████████████████░   96.53 % 
+Codex Vscode             41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
 
 💻 Operating System: 
-Mac                      16 hrs 8 mins       █████████████████████████   100.00 % 
+Mac                      19 hrs 54 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 54 mins (98.57%)
+⏱ AI Coding Time: 19 hrs 40 mins (98.85%)
 
-✍️ 11,750 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 4,674 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 28,867,955 Input Tokens, 3,234,239 Output Tokens
+🔤 18,043,254 Input Tokens, 2,724,801 Output Tokens
 
-💵 $259.01 Estimated AI Cost This Week
+💵 $201.03 Estimated AI Cost This Week
 
-🧠 222 AI Sessions, 145 AI Prompts
+🧠 57 AI Sessions, 112 AI Prompts
 
-GPT                      11,935 lines        █████████████████████████   100.00 % 
+GPT                      4,887 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 1,885 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
+📄 Detailed Prompter — average 1,331 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -280,5 +280,5 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 12/11/2026 00:21:03 UTC
+ Last Updated on 13/11/2026 00:21:51 UTC
 <!--END_SECTION:waka-->
