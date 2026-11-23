@@ -194,9 +194,9 @@ I'm passionate about delivering solutions that not only meet technical requireme
 
 **🐱 My GitHub Data** 
 
-> 📦 324.3 kB Used in GitHub's Storage 
+> 📦 324.2 kB Used in GitHub's Storage 
  > 
-> 🏆 1,300 Contributions in the Year 2026
+> 🏆 1,303 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -210,7 +210,7 @@ I'm passionate about delivering solutions that not only meet technical requireme
 🌞 Morning                61792 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
 🌆 Daytime                122367 commits      █████████░░░░░░░░░░░░░░░░   34.88 % 
 🌃 Evening                134215 commits      ██████████░░░░░░░░░░░░░░░   38.26 % 
-🌙 Night                  32419 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
+🌙 Night                  32422 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
@@ -221,7 +221,7 @@ Wednesday                65035 commits       █████░░░░░░�
 Thursday                 68471 commits       █████░░░░░░░░░░░░░░░░░░░░   19.52 % 
 Friday                   36824 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
 Saturday                 38600 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
-Sunday                   47922 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
+Sunday                   47925 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
 ```
 
 
@@ -231,38 +231,38 @@ Sunday                   47922 commits       ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-TypeScript               6 hrs 9 mins        ███████████████░░░░░░░░░░   58.49 % 
-Other                    1 hr 56 mins        █████░░░░░░░░░░░░░░░░░░░░   18.43 % 
-Markdown                 1 hr 37 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
-JSON                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
-Python                   7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+TypeScript               6 hrs 9 mins        ███████████████░░░░░░░░░░   59.40 % 
+Other                    1 hr 46 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
+Markdown                 1 hr 37 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
+JSON                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
+Python                   7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
 
 🔥 Editors: 
-Codex Vscode             5 hrs 38 mins       █████████████░░░░░░░░░░░░   53.54 % 
-VS Code                  4 hrs 53 mins       ████████████░░░░░░░░░░░░░   46.46 % 
+Codex Vscode             5 hrs 28 mins       █████████████░░░░░░░░░░░░   52.81 % 
+VS Code                  4 hrs 53 mins       ████████████░░░░░░░░░░░░░   47.19 % 
 
 💻 Operating System: 
-Mac                      10 hrs 31 mins      █████████████████████████   100.00 % 
+Mac                      10 hrs 21 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 23 mins (98.76%)
+⏱ AI Coding Time: 10 hrs 13 mins (98.74%)
 
 ✍️ 2,767 lines written by AI, 1 lines written by hand (99.96% AI-written)
 
-🔤 11,768,617 Input Tokens, 880,533 Output Tokens
+🔤 11,510,725 Input Tokens, 877,420 Output Tokens
 
-💵 $429.22 Estimated AI Cost This Week
+💵 $428.53 Estimated AI Cost This Week
 
-🧠 81 AI Sessions, 169 AI Prompts
+🧠 80 AI Sessions, 168 AI Prompts
 
 GPT                      5,624 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.96% of written lines came from AI
-📚 Verbose Prompter — average 2,441 characters per prompt
+📚 Verbose Prompter — average 2,276 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.12% of changed lines were hand-edited
 ```
@@ -280,5 +280,5 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 22/11/2026 00:45:02 UTC
+ Last Updated on 23/11/2026 00:53:13 UTC
 <!--END_SECTION:waka-->
